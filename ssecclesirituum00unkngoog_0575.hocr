@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ssecclesirituum00unkngoog_0575.png"; bbox 0 0 4284 6125; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 944 781 1846 3003">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 944 781 1846 3003">
+     <span class='ocr_line' id='line_1_1' title="bbox 944 781 1846 3003; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 944 781 1846 3003; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2423 1687 3067 1727">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2423 1687 3067 1727">
+     <span class='ocr_line' id='line_1_2' title="bbox 2423 1687 3067 1727; baseline 0.003 -2"><span class='ocrx_word' id='word_1_2' title='bbox 2423 1710 2440 1725; x_wconf 84' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 3052 1687 3067 1727; x_wconf 65' lang='lat'>⁴¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2274 1717 3067 2005">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2274 1717 3067 2005">
+     <span class='ocr_line' id='line_1_3' title="bbox 2294 1717 3067 1853; baseline 0.013 -35"><span class='ocrx_word' id='word_1_4' title='bbox 2294 1730 2440 1818; x_wconf 66' lang='lat'>‘1¹¹¹</span> <span class='ocrx_word' id='word_1_5' title='bbox 2489 1717 2913 1839; x_wconf 74' lang='lat' dir='ltr'>habebunt</span> <span class='ocrx_word' id='word_1_6' title='bbox 2960 1758 3067 1853; x_wconf 65' lang='lat' dir='ltr'>de</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2274 1849 3067 2005; baseline 0.01 -88"><span class='ocrx_word' id='word_1_7' title='bbox 2274 1849 2888 2005; x_wconf 38' lang='lat' dir='ltr'>porum-legi:e</span> <span class='ocrx_word' id='word_1_8' title='bbox 2948 1910 2988 1975; x_wconf 74' lang='lat'>¹,</span> <span class='ocrx_word' id='word_1_9' title='bbox 3012 1912 3067 1957; x_wconf 41' lang='lat'>..³</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2143 2879 3067 3093">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2143 2879 3067 3093">
+     <span class='ocr_line' id='line_1_5' title="bbox 2190 2879 3067 2974; baseline 0.01 -9"><span class='ocrx_word' id='word_1_10' title='bbox 2190 2879 2404 2974; x_wconf 74' lang='lat' dir='ltr'><strong>Ant—⁰</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2571 2909 2588 2925; x_wconf 84' lang='lat'><em>⁰</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 3064 2908 3067 2939; x_wconf 78' lang='lat'><strong><em>⁵</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 2143 2903 3067 3093; baseline 0.014 -12"><span class='ocrx_word' id='word_1_13' title='bbox 2143 2903 3067 3093; x_wconf 47' lang='lat' dir='ltr'>-1010535‘¹35¹³{„g“⁶²</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
